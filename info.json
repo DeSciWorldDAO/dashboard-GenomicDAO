@@ -1,1 +1,37 @@
-
+{"name":"GenomicDAO",
+"tokenSymbol":"PCSP",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"An AI-Powered DeSci platform to advance Precision Medicine for Asians",
+"whitePaperLink":"https://docs.genomicdao.com/genomicdao-whitepaper/",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/k9i4VtH.png",
+       "source": "image",
+       "link": "https://cointelegraph.com/news/vietnamese-officials-back-new-partnership-to-tokenize-genomic-profiles"
+   },  {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": " https://i.imgur.com/z996hRH.pnghttps://i.imgur.com/z996hRH.png",
+       "source": "image",
+       "link": " https://vir.com.vn/genetica-brings-southeast-asias-largest-gene-sequencing-centre-to-vietnams-nic-88296.html"  },
+ {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": " https://i.imgur.com/sAx7oJW.png",     
+"source": "image",
+       "link": "https://www.wtnzfox43.com/story/48363053/leading-ai-biotech-company-genetica-launches-decentralized-science-platform-genomicdao-for-precision-medicine"  }
+],
+"deleted":false,
+"primaryColor":"#2158c8",
+"twitterHandle":"genomicdao",
+"coingeckoId":"stroke-prevention-genomicdao",
+"snapshotId":"",
+"logo":"https://i.imgur.com/TDn7F29.jpg",
+"telegramLink":"",
+"discordLink":"https://t.me/GenomicDAOgroup",
+"website":"https://genomicdao.com",
+"tokenDescription":"$PCSP is the utility and governance token of GenomicDAO G-Stroke. $PCSP is used to reward users, for voting & govern rights, to exchange vouchers applied on end-products, and for staking. ",
+"tokenTradeLink":"https://pancakeswap.finance/swap?inputCurrency=0x55d398326f99059fF775485246999027B3197955&outputCurrency=0xE356337A72d4990A3cFD4d13367659f14F304545",
+"tags":["Decentralized biotech", "Science DeFi"]
+  
+}
